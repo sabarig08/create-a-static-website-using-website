@@ -1,0 +1,15 @@
+
+li{
+    display: inline;
+    padding: 30px;
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+p{
+    text-align: left;
+}
+form{
+    margin-left:600px;
+}
